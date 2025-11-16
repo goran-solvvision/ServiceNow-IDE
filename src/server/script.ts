@@ -5,5 +5,5 @@ export function showStateUpdate(current:GlideRecord, previous:GlideRecord) {
     const currentState = current.getValue('state');
     const previuosAState = previous.getValue('state');
 
-    gs.addInfoMessage(snakeCase('state updated from "${previousState}" to: "${currentState}"'));
+    gs.addInfoMessage(snakeCase('state updated from "${previousState}" to: "${currentState} "'));
 }
