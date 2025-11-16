@@ -1,0 +1,6 @@
+{
+  "scope": "x_snc_report_saf_i",
+  "scopeId": "17860b609f9132107f44d8603024ab8a",
+  "name": "Report a Safety Issue",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
